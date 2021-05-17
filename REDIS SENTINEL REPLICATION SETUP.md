@@ -4,9 +4,9 @@
 ### ASSUMPTIONS
 |Role|Machine Name|IP Address|Operating System|
 |-|-|-|-|
-|Master |Aws|10.0.0.1|Ubuntu 20.04|
-|Slave 1 |Aws|10.0.0.1|Ubuntu 20.04|
-|Slave 2 |Aws|10.0.0.2|Ubuntu 20.04|
+|Master |10.0.0.1|Ubuntu 20.04|
+|Slave 1 |10.0.0.2|Ubuntu 20.04|
+|Slave 2 |10.0.0.3|Ubuntu 20.04|
 ### On Master 
 ###### UPDATE AND INSTALL PACKAGES
 ```
