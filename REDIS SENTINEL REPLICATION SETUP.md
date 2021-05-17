@@ -27,6 +27,7 @@ ufw allow 22
 ```
 ###### Edit REDIS.CONF FILE
 nano /etc/redis/redis.conf
+
 bind 127.0.0.11 10.0.0.1
 
 protected-mode no
@@ -57,6 +58,7 @@ ufw allow 22
 ```
 ###### Edit REDIS.CONF FILE
 nano /etc/redis/redis.conf
+
 bind 127.0.0.11 10.0.0.2
 
 protected-mode no
@@ -89,6 +91,7 @@ ufw allow 22
 ```
 ###### Edit REDIS.CONF FILE
 nano /etc/redis/redis.conf
+
 bind 127.0.0.11 10.0.0.3
 
 protected-mode no
