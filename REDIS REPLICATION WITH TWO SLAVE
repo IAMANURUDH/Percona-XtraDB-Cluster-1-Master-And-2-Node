@@ -1,5 +1,5 @@
-(MASTER)IP:10.0.0.1
-apt update && apt upgrade -y && apt install redis -y && apt install redis-sentinel -y && apt install firewalld -y
+# (MASTER)IP:10.0.0.1
+## apt update && apt upgrade -y && apt install redis -y && apt install redis-sentinel -y && apt install firewalld -y
 systemctl stop sentinel
 chown redis:redis /etc/redis/sentinel.conf
 chown redis:redis /var/log/redis/redis-sentinel.log
