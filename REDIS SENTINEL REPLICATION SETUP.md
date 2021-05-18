@@ -2,8 +2,8 @@
 ### INSTALL INSTRUCTIONS FOR UBUNTU 20.04
 
 ### ASSUMPTIONS
-|Role|Machine Name|IP Address|Operating System|
-|-|-|-|-|
+|Role|IP Address|Operating System|
+|-|-|-|
 |Master |10.0.0.1|Ubuntu 20.04|
 |Slave 1 |10.0.0.2|Ubuntu 20.04|
 |Slave 2 |10.0.0.3|Ubuntu 20.04|
